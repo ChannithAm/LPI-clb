@@ -16,3 +16,15 @@ De cai may ao thi phai bat VT-X Bios len!
 
 + Primary: phan vung chinh
 + 
+
++ Kiem tra may tinh cua minh:
+ - ping 8.8.8.8 de ktra duong truyen internet (ra internet)
+ - ping 127.0.0.1 de kiem tra card mang: <1ms thi tot
+
++ Kiem tra den gatway hay khong? den modem
+ - ping 192.168.1.1
+ - ping 192.168.0.1
+
+
++ Ve nha:
+  - Tim hieu cac thu muc: bin, lib, ...
