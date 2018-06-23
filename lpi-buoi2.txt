@@ -1,0 +1,18 @@
+==============
+| 23/06/2018 |
+==============
+
+Co 2 cach cai:
+  - LVM
+  - R
+
+De cai may ao thi phai bat VT-X Bios len!
+
++ Phan vung: 3
+  - Set boot: /boot: 512MB (neu co dk (khi chia): 1024MB) --> de o primary
+  - SWAP (Ram ao): 2RAM x2 = 4GB = 4096MB --> de o logical
+  - / (root: chua du lieu toan he thong): 15 -to 20GB --> de o primary (toi thieu la 10)
+  - /home (chua du lieu cua nguoi dung): all free --> logical
+
++ Primary: phan vung chinh
++ 
